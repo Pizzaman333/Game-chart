@@ -14,10 +14,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "parcel": "^2.13.3",
     "pnotify": "^5.2.0"
-  },
-  "dependencies": {
-    "gh-pages": "^6.3.0"
   }
 }
